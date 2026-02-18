@@ -1,1 +1,30 @@
 
+{
+  "categories": [
+    {
+      "title": "Geometri Konu Anlatımı",
+      "playlistId": "PLu1PfhDRVoAYrGOdeIUxjYt2hBPzLFO92",
+      "iconName": "ic_geometri"
+    },
+    {
+      "title": "Sayısal Mantık Konu Anlatımı",
+      "playlistId": "PLu1PfhDRVoAagj4aVREizCXGOag7kGyKB",
+      "iconName": "ic_matematik"
+    },
+    {
+      "title": "Polinom Soruları",
+      "playlistId": "PLu1PfhDRVoAb6gM9d5Y1cRTC4D0EKWU8k",
+      "iconName": "ic_polınom"
+    },
+    {
+      "title": "Parabol Soruları",
+      "playlistId": "PLu1PfhDRVoAaPNyy0QIJobQPJooj9D_tV",
+      "iconName": "ic_parabol"
+    },
+    {
+      "title": "Bilişim",
+      "playlistId": "PLu1PfhDRVoAbjoypqlSqIjDAA6Hx96Ymw",
+      "iconName": "ic_bilisim"
+    }
+  ]
+}
